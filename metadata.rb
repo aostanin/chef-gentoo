@@ -1,0 +1,7 @@
+name             "gentoo"
+maintainer       "Andrei Ostanin"
+maintainer_email "aostanin@gmail.com"
+license          "Apache 2.0"
+description      "Gentoo stuff"
+version          "0.1.0"
+supports         "gentoo"
